@@ -2,6 +2,8 @@
 
 This is a Laravel web application that uses [MetaMask](https://metamask.io/) to authenticate users through the Ethereum blockchain.
 
+![Demo](https://raw.githubusercontent.com/timkrysta/web3-metamask-authentication/main/demo.gif)
+
 ## Installation
 
 1. Clone this repository:
